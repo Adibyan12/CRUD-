@@ -5,7 +5,8 @@
   <title>Membuat CRUD Dengan PHP Dan MySQL - Menampilkan data dari database</title>
   <link href="css/bootstrap.min.css" rel="stylesheet">
   <script src="js/bootstrap.bundle.min.js"></script>
-  <link href="fontawesome/css/all.css" rel="stylesheet">  </head>
+  <link href="fontawesome/css/all.css" rel="stylesheet">  
+</head>
 <body>
   <nav class="navbar navbar-light bg-light">
     <div class="container-fluid">
